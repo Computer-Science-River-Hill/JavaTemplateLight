@@ -1,2 +1,2 @@
-# JavaTemplate
-Java Template
+# See Canvas
+For this programs instructions see Canvas
